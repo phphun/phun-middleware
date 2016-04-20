@@ -1,0 +1,5 @@
+#!/bin/bash
+rm -rf plugins/phun-router
+rm -rf plugins/phun-dom
+git clone https://github.com/phphun/phun-router plugins/phun-routeur
+git clone https://github.com/phphun/phun-dom plugins/phun-dom
